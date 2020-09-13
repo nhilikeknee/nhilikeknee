@@ -1,5 +1,5 @@
 # <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="50">Hello! My name is Nhi, like "knee"  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/263/leg_1f9b5.png" width="50">
-[<img src="https://i.kym-cdn.com/entries/icons/original/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg">](https://nhilikeknee.herokuapp.com/)     
+[<img src="https://github.com/nhilikeknee/nhilikeknee/blob/master/hackerwomancropped.png">](https://nhilikeknee.herokuapp.com/)     
 
 I'm a sophomore at UC San Diego studying Computer Science. Find out more about me on my <strong>[personal website](https://nhilikeknee.herokuapp.com/)</strong>!    
 
