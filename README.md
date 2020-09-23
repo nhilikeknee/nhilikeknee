@@ -1,6 +1,6 @@
 # <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="50">Hello! My name is Nhi, like "knee"  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/263/leg_1f9b5.png" width="50">
-### I'm an undergrad at UC San Diego studying Computer Science. Find out more about me on <strong>[my website](http://www.nhilikeknee.com/)</strong> >:)    
-[<img src="https://github.com/nhilikeknee/nhilikeknee/blob/master/hackerwomancropped.png">](http://www.nhilikeknee.com/)     
+### I'm an undergrad at UC San Diego studying Computer Science. Find out more about me at <strong>[www.nhilikeknee.com](http://www.nhilikeknee.com/)</strong> >:)    
+[<img src="https://github.com/nhilikeknee/nhilikeknee/blob/master/hackerwoman_cropped.png">](http://www.nhilikeknee.com/)     
 
 
 
