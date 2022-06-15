@@ -1,5 +1,5 @@
 # Hi! My name is Nhi, like "knee"  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/263/leg_1f9b5.png" width="50">
-### I'm an undergrad at UC San Diego studying Computer Science and Linguistics.    
+### UC San Diego '22, studying Computer Science and Linguistics.    
 ### See you at <strong>[nhilikeknee.com](https://nhilikeknee.com/)</strong>    
 
 
